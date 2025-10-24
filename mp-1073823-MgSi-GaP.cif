@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ga6P6
+_chemical_formula_sum              "Ga6 P6"
+_cell_length_a       4.51659
+_cell_length_b       5.4283
+_cell_length_c       9.93711
+_cell_angle_alpha    93.622
+_cell_angle_beta     102.574
+_cell_angle_gamma    110.706
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.54464  0.67388  0.38671  1.0000
+  Ga  Ga2       1.0  0.45536  0.32611  0.61329  1.0000
+  Ga  Ga3       1.0  0.22590  0.62306  0.82318  1.0000
+  Ga  Ga4       1.0  0.77410  0.37694  0.17681  1.0000
+  Ga  Ga5       1.0  0.84103  0.97349  0.71279  1.0000
+  Ga  Ga6       1.0  0.15898  0.02651  0.28721  1.0000
+  P   P1        1.0  0.42403  0.74353  0.11104  1.0000
+  P   P2        1.0  0.13817  0.24158  0.00911  1.0000
+  P   P3        1.0  0.83677  0.27025  0.44121  1.0000
+  P   P4        1.0  0.16323  0.72975  0.55879  1.0000
+  P   P5        1.0  0.57597  0.25647  0.88896  1.0000
+  P   P6        1.0  0.86183  0.75842  0.99089  1.0000

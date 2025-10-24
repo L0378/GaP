@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ga3P3
+_chemical_formula_sum              "Ga3 P3"
+_cell_length_a       6.07538
+_cell_length_b       6.07538
+_cell_length_c       7.28058
+_cell_angle_alpha    74.7081
+_cell_angle_beta     74.7081
+_cell_angle_gamma    29.5765
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.61060  0.61060  0.27920  1.0000
+  Ga  Ga2       1.0  0.33302  0.33302  0.33461  1.0000
+  Ga  Ga3       1.0  0.27801  0.27801  0.94059  1.0000
+  P   P1        1.0  0.99673  0.99673  0.00652  1.0000
+  P   P2        1.0  0.94567  0.94567  0.60660  1.0000
+  P   P3        1.0  0.66930  0.66930  0.66581  1.0000
